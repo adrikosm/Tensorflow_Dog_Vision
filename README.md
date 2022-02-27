@@ -25,7 +25,7 @@ I used tensorflow and tensorflow hub
 
 ## Challenges
 
-Making the project into a computer vision
+Turning the project into a real time detection application
 
 ## What next?
 
